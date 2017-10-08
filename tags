@@ -1,0 +1,4 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+main	/Users/davidjaimes/Desktop/Jagerwolfe/cliSOSearch/sopy	/^def main():$/;"	f	language:Python
+sys	/Users/davidjaimes/Desktop/Jagerwolfe/cliSOSearch/sopy	/^    import sys$/;"	i	language:Python
+webbrowser	/Users/davidjaimes/Desktop/Jagerwolfe/cliSOSearch/sopy	/^    import webbrowser$/;"	i	language:Python
