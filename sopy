@@ -3,7 +3,6 @@
 try:
     import webbrowser
     import sys
-    import pyperclip
 except ImportError:
     print("""
 Please install dependencies:
@@ -18,7 +17,7 @@ def main():
     if len(sys.argv) > 1:
         query = ' '.join(sys.argv[1:])
     else:
-        query = pyperclip.paste()
+        query = ''
 
     webbrowser.open('https://stackoverflow.com/search?q=' + query)
 
